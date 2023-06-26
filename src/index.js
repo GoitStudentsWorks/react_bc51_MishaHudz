@@ -10,7 +10,7 @@ import { PersistGate } from 'redux-persist/integration/react';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <PersistGate persistor={persistor}>
-      <BrowserRouter basename="/mcducks-digital-treasury">
+      <BrowserRouter basename="/react_bc51_MishaHudz">
         <App />
       </BrowserRouter>
     </PersistGate>
