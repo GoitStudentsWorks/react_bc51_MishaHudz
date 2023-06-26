@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react_bc51_MishaHudz/static/css/main.89869eae.css",
+    "main.js": "/react_bc51_MishaHudz/static/js/main.9e792107.js",
+    "static/media/Rectangle.png": "/react_bc51_MishaHudz/static/media/Rectangle.bc274d04e3cece71fb64.png",
+    "static/media/Ellipse-8.png": "/react_bc51_MishaHudz/static/media/Ellipse-8.fa12646c464dff543456.png",
+    "static/media/blur.png": "/react_bc51_MishaHudz/static/media/blur.3b6ced0926b1508cef4a.png",
+    "static/media/walletStart.png": "/react_bc51_MishaHudz/static/media/walletStart.ce2f753ea0a8b58aa53c.png",
+    "static/media/TabletMoney.png": "/react_bc51_MishaHudz/static/media/TabletMoney.bcd16787f526b299a6d2.png",
+    "static/media/coinHeader.png": "/react_bc51_MishaHudz/static/media/coinHeader.508b4b37b5ba09f27877.png",
+    "static/media/technique.png": "/react_bc51_MishaHudz/static/media/technique.85628d3d6f66cfd4926b.png",
+    "static/media/sports_hobbies.png": "/react_bc51_MishaHudz/static/media/sports_hobbies.5cc5370409bf58a07962.png",
+    "static/media/transport.png": "/react_bc51_MishaHudz/static/media/transport.1cd7d74b1de27bb26b25.png",
+    "static/media/other.png": "/react_bc51_MishaHudz/static/media/other.ff491f29065c5aca4b59.png",
+    "static/media/health.png": "/react_bc51_MishaHudz/static/media/health.e51930920e837da3d7b8.png",
+    "static/media/education.png": "/react_bc51_MishaHudz/static/media/education.01d4189b317929321f31.png",
+    "static/media/alcohol.png": "/react_bc51_MishaHudz/static/media/alcohol.0e2319362edb6cb74d0d.png",
+    "static/media/entertaiment.png": "/react_bc51_MishaHudz/static/media/entertaiment.3ccb6b5bb332b142c2d0.png",
+    "static/media/products.png": "/react_bc51_MishaHudz/static/media/products.184c5ccfc49529b5b244.png",
+    "static/media/communal_communication.png": "/react_bc51_MishaHudz/static/media/communal_communication.149afd24949e432ef7bb.png",
+    "static/media/housing.png": "/react_bc51_MishaHudz/static/media/housing.8c1d819ce1e0f53318a0.png",
+    "static/media/icon.svg": "/react_bc51_MishaHudz/static/media/icon.2649878e1556fff79d17a38b0892a692.svg",
+    "index.html": "/react_bc51_MishaHudz/index.html",
+    "main.89869eae.css.map": "/react_bc51_MishaHudz/static/css/main.89869eae.css.map",
+    "main.9e792107.js.map": "/react_bc51_MishaHudz/static/js/main.9e792107.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89869eae.css",
+    "static/js/main.9e792107.js"
+  ]
+}
